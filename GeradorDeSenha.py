@@ -3,6 +3,7 @@ import PySimpleGUI as sg
 import random as rd
 import os
 
+#Definindo o tema da interface gráfica
 sg.theme('darkblue18')
 
 #Criação do layout da interface gráfica
