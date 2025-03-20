@@ -1,2 +1,4 @@
 # Gerador-de-senha
-Um gerador de senhas numericas escritas e diversas,salvas em um arquivo.txt com a implementação das bibliotecas pysimplegui e random.
+Um gerador de senhas de diferentes tipos: Apenas letras, apenas números, apenas símbolos ou todas as opções anteriores.
+As senhas geradas são salvas em um arquivo.txt no diretório escolhido pelo usuário ou no diretório padrão(Área de Trabalho).
+Foram implementadas as bibliotecas PySimpleGUI, random e os.
